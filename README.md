@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Amenity Dectection for Hospitatlity Management<br><br>🌱 I’m currently learning AI & Data Science<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>⚡ Fun fact I Like To Stream Games On YT</p>
+<p align="left">🔭 I’m currently working on F1 Prediction Model (Learning) <br><br>🌱 I’m currently doing Master's in Data Science<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>⚡ Fun fact I Like To Stream Games On YT</p>
 
 ###
 
