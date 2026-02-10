@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/TdRjiaFRef1YAnk3rP/giphy.gif" width="100%" alt="Leclerc Eyebrows" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZpbWJ6cWk5Z3J5eXJ5Z3J5eXJ5Z3J5eXJ5Z3J5eXJ5Z3J5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdRjiaFRef1YAnk3rP/giphy.gif" width="100%" style="border-radius: 10px;" alt="Leclerc Banner" />
 </div>
 
 ### 👋 Hello there !
