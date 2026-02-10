@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNjeHpyOWtxbHFmaWVybTlncmlybnJ1cXdwd3Voenloanowc2VkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdRjiaFRef1YAnk3rP/giphy.gif" width="100%" height="auto" alt="Banner"/>
+  <img src="https://media.giphy.com/media/SvurA3QBDXsyjf0eZS/giphy.gif" width="100%" alt="Ferrari F1 Banner" />
 </div>
 
 ### 👋 Hello there !
