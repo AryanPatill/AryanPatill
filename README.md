@@ -1,51 +1,60 @@
 <div align="center">
-  <h1>Hi there, I'm Aryan! 👋</h1>
-  
-  <h3>
-    Data Scientist | Gamer | Master's Student @ RIT
-  </h3>
-
-  <p>
-    <a href="https://linkedin.com/in/aryanpatil18">
-      <img src="https://img.shields.io/badge/SEEKING%20SUMMER%202026-INTERNSHIPS%20%26%20CO--OPS-blue?style=for-the-badge&logo=linkedin" alt="Seeking Internships" />
-    </a>
-    <br/>
-    <b>📅 Available starting May 2026</b>
-  </p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" alt="Banner"/>
 </div>
 
----
+### 👋 Hello there !
+
+<p align="left">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="Version" />
+  <img src="https://komarev.com/ghpvc/?username=AryanPatill&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AryanPatill?style=flat-square&logo=github&label=Follow" alt="Followers" />
+  <a href="https://linkedin.com/in/aryanpatil18">
+    <img src="https://img.shields.io/badge/Status-Seeking%20Internships%20(Summer%202026)-success?style=flat-square" alt="Seeking Internships" />
+  </a>
+</p>
 
 ### 👨🏻‍💻 About Me
 
-💡 I'm a Data Engineer & Gamer by profession, and currently a **Master of Science in Data Science** student at the **Rochester Institute of Technology (RIT)**!
-
-💻 I'm currently performing research in the field of using **telemetry analysis** and **extracting value from hidden data**.
-
-🎓 I graduated from **New Horizon Institute of Technology and Management, Thane** with a B.E. in Artificial Intelligence and Data Science, Batch of 2025.
-
-🌱 I'm on track for learning more about **Artificial Intelligence**, **Physics Simulation**, and **Financial Modeling**.
-
-✍️ In my free time, I play video games, football, and do photography as my hobbies.
-
-💬 Feel free to reach out to me for general discussions on any **Formula 1** or **Finance** topics!
+💡 &nbsp; I'm a Data Engineer & Gamer by profession, and a **MS in Data Science** student at **Rochester Institute of Technology**! <br/>
+💻 &nbsp; I'm currently performing research in the field of using **telemetry analysis** and **extracting value from hidden data**. <br/>
+🎓 &nbsp; I graduated from **New Horizon Institute of Technology and Management, Thane** (BE in Artificial Intelligence and Data Science, Batch of 2025). <br/>
+🌱 &nbsp; I'm on track for learning more about **Artificial Intelligence**, **Physics Simulation**, and **Financial Modeling**. <br/>
+🎯 &nbsp; **Looking for Internship and Co-op opportunities for Summer 2026 (Available from May 2026).** <br/>
+✍️ &nbsp; In my free time, I play Video games, football, and do photography as my hobbies. <br/>
+💬 &nbsp; Feel free to reach out to me for general discussions on any **Formula 1** or **Finance** topics! <br/>
+✉️ &nbsp; You can email me at [aryannpatill18@gmail.com](mailto:aryannpatill18@gmail.com). I'll try to respond as soon as possible! <br/>
+📄 &nbsp; You can check my [LinkedIn](https://linkedin.com/in/aryanpatil18) for more details about work experience.
 
 ---
 
-### 📫 Connect with Me
+### 🛠 Tech Stack
 
-<div align="left">
-  <a href="https://linkedin.com/in/aryanpatil18" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aryannpatill18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 
-<br />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
-📄 **You can check my [LinkedIn](https://linkedin.com/in/aryanpatil18) for more details about my work experience.**
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+
+---
+
+### 📫 How to reach me:
+
+<a href="https://linkedin.com/in/aryanpatil18">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:aryannpatill18@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
+</a>
