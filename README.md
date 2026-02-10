@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/SvurA3QBDXsyjf0eZS/giphy.gif" width="100%" alt="Ferrari F1 Banner" />
+  <img src="https://media.giphy.com/media/TdRjiaFRef1YAnk3rP/giphy.gif" width="100%" alt="Leclerc Eyebrows" />
 </div>
 
 ### 👋 Hello there !
