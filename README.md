@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=AryanPatill&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AryanPatill?style=flat-square&logo=github&label=Follow" alt="Followers" />
   <a href="https://linkedin.com/in/aryanpatil18">
-    <img src="https://img.shields.io/badge/Status-Seeking%20Internships%20(Summer%202026)-success?style=flat-square" alt="Seeking Internships" />
+    <img src="https://img.shields.io/badge/Status-Seeking%20Internships%20(Summer%202027)-success?style=flat-square" alt="Seeking Internships And Co-op / Full Time" />
   </a>
 </p>
 
