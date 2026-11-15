@@ -1,26 +1,39 @@
-# Aryan Patil
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img alt="Aryan Patil. I build data pipelines and ML systems that prove their own correctness." src="./assets/header-light.svg" width="100%" />
+</picture>
 
-**I build data pipelines and ML systems that prove their own correctness, for teams that can't afford quietly wrong numbers.**
+Rochester, NY &nbsp;·&nbsp; Open to internships and co-ops &nbsp;·&nbsp; [aryanpatill.github.io](https://aryanpatill.github.io)
 
-MS Data Science at Rochester Institute of Technology · Rochester, NY · Open to internships and co-ops
+<br>
 
-## Featured work
+### Selected work
 
-| Project | What it shows |
-|---|---|
-| [f1-stream](https://github.com/AryanPatill/f1-stream) | Event-time stream processor for out-of-order F1 telemetry: 1,000/1,000 windows correct against offline ground truth, versus 979/1,000 for arrival-order processing. |
-| [ai-entry-level-jobs](https://github.com/AryanPatill/ai-entry-level-jobs) | Preregistered study of whether AI is reducing entry-level employment; the research design was committed before any data was downloaded. |
-| [The-Quants-Cockpit](https://github.com/AryanPatill/The-Quants-Cockpit) | Portfolio optimizer: incremental market-data ETL into SQL, Markowitz max-Sharpe allocation, and Monte Carlo stress tests. |
+**[f1-stream](https://github.com/AryanPatill/f1-stream)**<br>
+Event-time stream processor for out-of-order F1 telemetry. 1,000 of 1,000 windows correct against ground truth, versus 979 for arrival-order processing.<br>
+<sub>Python &nbsp;·&nbsp; asyncio &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; FastAPI</sub>
 
-## Stack
+**[ai-entry-level-jobs](https://github.com/AryanPatill/ai-entry-level-jobs)**<br>
+Preregistered study of whether AI is reducing entry-level employment. The research design was committed before any data was downloaded.<br>
+<sub>Python &nbsp;·&nbsp; IPUMS CPS &nbsp;·&nbsp; Poisson fixed effects</sub>
 
-| Area | Tools |
-|---|---|
-| Languages | Python, SQL, JavaScript |
-| Data engineering | PostgreSQL (Supabase), SQLAlchemy, asyncio, FastAPI |
-| ML and statistics | XGBoost, scikit-learn, SciPy, pandas, NumPy |
-| Apps and visualization | Streamlit, Plotly, Django |
+**[The-Quants-Cockpit](https://github.com/AryanPatill/The-Quants-Cockpit)**<br>
+Portfolio optimizer with incremental market-data ETL into SQL, Markowitz max-Sharpe allocation, and Monte Carlo stress tests.<br>
+<sub>Python &nbsp;·&nbsp; SQLAlchemy &nbsp;·&nbsp; SciPy &nbsp;·&nbsp; Streamlit</sub>
 
-## Contact
+**[credit_risk_dashboard](https://github.com/AryanPatill/credit_risk_dashboard)**<br>
+Loan default risk scoring with single-applicant and portfolio views.<br>
+<sub>Python &nbsp;·&nbsp; XGBoost &nbsp;·&nbsp; Streamlit &nbsp;·&nbsp; Plotly</sub>
 
-[LinkedIn](https://www.linkedin.com/in/aryanpatil18/) · [Portfolio](https://aryanpatill.github.io) · [Email](mailto:aryannpatill18@gmail.com)
+<br>
+
+### Stack
+
+Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; asyncio &nbsp;·&nbsp; pandas &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; XGBoost &nbsp;·&nbsp; SciPy &nbsp;·&nbsp; Streamlit
+
+<br>
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/aryanpatil18/) &nbsp;·&nbsp; [Email](mailto:aryannpatill18@gmail.com) &nbsp;·&nbsp; [Portfolio](https://aryanpatill.github.io)
